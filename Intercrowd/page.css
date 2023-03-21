@@ -1,0 +1,22 @@
+#class1{
+    text-align:left;
+    border:solid 2px black;
+    margin-top: 100px;
+    margin-bottom:20px;
+}
+#class{
+    text-align:left;
+    border:solid 1px red;
+    margin-bottom:20px;
+}
+.text{
+    color:black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    margin-top: 20px;
+    text-align:left;
+}
+#nav{
+    background-color: grey;
+    height: 50px;
+}
